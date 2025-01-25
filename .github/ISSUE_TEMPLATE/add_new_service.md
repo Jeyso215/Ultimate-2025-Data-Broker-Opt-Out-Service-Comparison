@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: New service request
+about: Suggest a new data-broker opt-out service
 title: ''
 labels: ''
 assignees: ''
