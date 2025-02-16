@@ -39,7 +39,8 @@ This repository is a comprehensive comparison of data broker opt-out services in
 
 ### 🔗 Resources  
 - [Comparison Sheet](https://cryptpad.fr/sheet/#/2/sheet/view/BtjktO4XCRC8pyWrwWgERfaY-8Gnhbjqf3zY5DYTxB8/)  
-- [Avoid These Tools](https://cryptpad.fr/sheet/#/2/sheet/view/pUaar-hGdVJFPwgNr3vbxVSyMa4B09TwgxImzMshT-s/)  
+- [Avoid These Tools](https://cryptpad.fr/sheet/#/2/sheet/view/pUaar-hGdVJFPwgNr3vbxVSyMa4B09TwgxImzMshT-s/)
+- [Extra](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
 
 ---
 
